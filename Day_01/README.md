@@ -1,18 +1,18 @@
-Palindrome Number
-📌 Problem Description
+# Palindrome Number
+# 📌 Problem Description
 
 Given an integer x, determine whether it is a palindrome number.
 
 A number is considered a palindrome if it reads the same forward and backward.
 
-💡 Intuition
+💡 <b>Intuition</b>
 
-A palindrome number remains unchanged when its digits are reversed.
+<i>A palindrome number remains unchanged when its digits are reversed.
 If the reversed version of the number is equal to the original number, then the number is a palindrome.
 
-Negative numbers are not palindromes because the negative sign (-) appears only on one side of the number.
+Negative numbers are not palindromes because the negative sign (-) appears only on one side of the number.</i>
 
-🧠 Approach
+🧠 <b>Approach</b>
 
 1) If the number is negative, it cannot be a palindrome, so return false.
 2) Store the original number in a temporary variable.
@@ -23,22 +23,22 @@ Negative numbers are not palindromes because the negative sign (-) appears only 
 7) Compare the reversed number with the original number.
 8) If both are equal, the number is a palindrome; otherwise, it is not.
 
-⏱️ Complexity Analysis
+# ⏱️ Complexity Analysis
 
-- Time Complexity:
+<b>- Time Complexity:</b>
 O(d), where d is the number of digits in the number.
 
-- Space Complexity:
+<b>- Space Complexity:</b>
 O(1), since only a few integer variables are used.
 
-🧪 Example
-Input:
+# 🧪 Example
+<b>Input:</b>
 10
 
-Output:
+<b>Output:</b>
 The Number is Not Palindrome
 
-📝 Notes
+# 📝 Notes
 
 - This solution uses an iterative digit reversal approach.
 - No extra data structures are used.
