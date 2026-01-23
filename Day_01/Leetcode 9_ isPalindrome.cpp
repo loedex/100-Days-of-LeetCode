@@ -5,7 +5,6 @@ class Solution{
 		bool isPalindrome(int x){
 			if(x<0){
 				cout<<"Number is Negative";
-				exit(0);
 				return false;
 	
 			}
