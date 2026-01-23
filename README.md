@@ -18,19 +18,8 @@ The purpose of this challenge is to strengthen my problem-solving skills, improv
 - Editor: Visual Studio Code
 
 📂 Repository Structure
-
 The repository is organized on a day-wise basis to clearly reflect daily progress.
 
-100-Days-of-LeetCode/
-│
-├── README.md
-├── Day-01/
-│   ├── ProblemName.cpp
-│   └── README.md
-├── Day-02/
-│   ├── ProblemName.cpp
-│   └── README.md
-└── ...
 Each day’s folder contains:
 
 1) The C++ solution file
@@ -39,10 +28,11 @@ Each day’s folder contains:
 - Approach
 - Time and space complexity
 
-📈 Progress Tracking
-Day                      	Status
-----                        ------ 
-Day 01	                   ✅ Completed
+📈 <b>Progress Tracking<b><br>
+<hr>
+Day&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status   
+
+Day 01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Completed
 
 
 🔁 Commitment
@@ -58,4 +48,5 @@ Day 01	                   ✅ Completed
 - All problem statements belong to LeetCode.
 
 ⭐ Acknowledgment: 
+
 Inspired by the 100 Days of Code challenge to build consistency, discipline, and problem-solving confidence.
