@@ -92,19 +92,22 @@ int main(){
 
     return 0;
 }
-
-📝 Example
+```
+# 📝 Example
 
 <b>Input:</b>
-Enter Number : 4
+``` Enter Number : 4```
 <b>Output:</b>
-Result: 4
+```Result: 4```
+
 <b>Explanation:</b>
+```
 T(0) = 0  
 T(1) = 1  
 T(2) = 1  
 T(3) = 2  
 T(4) = 4  
+```
 
 <b>🎯 Learning Objectives:</b> 
 - Understand the Tribonacci sequence
@@ -112,6 +115,6 @@ T(4) = 4
 - Improve space optimization techniques in C++
 - Strengthen loop-based problem solving
 
-📌 Author
+<b>📌 Author</b>
 Husnain Ahmad
 Aspiring Software Engineer | MERN Stack Learner | DSA Enthusiast
