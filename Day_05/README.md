@@ -86,13 +86,15 @@ int main(){
 ```
 # Example
 <b>Input: </b>
-
-```numBottles = 9
-numExchange = 3```
+```
+numBottles = 9
+numExchange = 3
+```
 
 <b>Output: </b>
-
-```Total Drinked Bottles : 13```
+```
+Total Drinked Bottles : 13
+```
 
 <b>Explanation:</b>
 - Drink 9 bottles → 9 empty
@@ -103,6 +105,6 @@ numExchange = 3```
 Total bottles drunk = 13
 
 # 📌 Author
-
 <b>Husnain Ahmad</b>
+
 Aspiring Software Engineer | MERN Stack Learner | DSA Enthusiast
