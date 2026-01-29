@@ -28,7 +28,7 @@ Each day’s folder contains:
 - Approach
 - Time and space complexity
 
-# 📈 <b>Progress Tracking<b><br>
+# 📈 <b>Progress Tracking</b><br>
 <hr>
 <b>Day</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Status</b>   
 
