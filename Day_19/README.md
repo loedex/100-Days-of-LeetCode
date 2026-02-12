@@ -110,3 +110,18 @@ public:
 };
 ```
 
+# Example : 
+
+<b>Input : </b>
+
+```nums = [1,1,2,3,3,4,4,8,8]```
+
+<b>Output : </b>
+
+```2```
+
+
+# Author:
+<b>Husnain Ahmad</b>
+
+Aspiring Software Engineer | MERN Stack Learner | DSA Enthusiast
