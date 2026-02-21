@@ -15,6 +15,8 @@ Given an integer array `nums`, return:
 
 
 i < j < k
+
+
 nums[i] < nums[j] < nums[k]
 
 
@@ -43,6 +45,8 @@ If we find a number greater than both `first` and `second`, we have found a vali
 
 
 first = INT_MAX
+
+
 second = INT_MAX
 
 2. Traverse the array:
