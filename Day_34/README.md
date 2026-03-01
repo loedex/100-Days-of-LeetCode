@@ -242,3 +242,8 @@ prices = [7,1,5,3,6,4]
 ---
 
 ⭐ This is a classic **Greedy Algorithm** problem.
+
+# Author:
+<b>Husnain Ahmad</b>
+
+Aspiring Software Engineer | MERN Stack Learner | DSA Enthusiast
