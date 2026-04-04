@@ -158,7 +158,7 @@ for (char s : stones) {
 ## 👨‍💻 Author
 
 **Husnain Ahmad**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/husnain-ahmad-911b883a6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/husnain-ahmad-911b883a6)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/loedex)
 
 ---
