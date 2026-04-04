@@ -115,4 +115,13 @@ Let's trace through `nums = [1, 2, 3, 1]`:
 
 ---
 
+## 👨‍💻 Author
+
+**Husnain Ahmad**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/husnain-ahmad-911b883a6)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/loedex)
+
+
+---
+
 > 💬 *Feel free to open an issue or pull request if you have a more optimized approach!*
