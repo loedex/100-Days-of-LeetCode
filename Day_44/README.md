@@ -168,4 +168,14 @@ for (char s : stones) {
 This problem is part of my **Learn in Public** DSA series where I solve, document,
 and share LeetCode problems with clear explanations — not just code dumps.
 
+---
+
+## 👨‍💻 Author
+
+**Husnain Ahmad**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/husnain-ahmad-911b883a6)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/loedex)
+
+---
+
 > ⭐ Star this repo if you find it helpful — it keeps me motivated to keep going!
