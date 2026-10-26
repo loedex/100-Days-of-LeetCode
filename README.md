@@ -88,8 +88,8 @@ The repository is organized on a day-wise basis to clearly reflect daily progres
 | 51 – 60 | 10 / 10 | Completed |
 | 61 – 70 | 10 / 10 | Completed |
 | 71 – 80 | 10 / 10 | Completed |
-| 81 – 82 | 2 / 2 | Completed |
-| 83 – 100 | 0 / 18 | Upcoming |
+| 81 – 90 | 3 / 10 | Completed |
+| 91 – 100 | 0 / 10 | Upcoming |
 
 <details>
 <summary><b>View day-by-day log</b></summary>
@@ -117,7 +117,7 @@ The repository is organized on a day-wise basis to clearly reflect daily progres
 | 17 | Completed | 38 | Completed | 59 | Completed | 80 | Completed |
 | 18 | Completed | 39 | Completed | 60 | Completed | 81 | Completed |
 | 19 | Completed | 40 | Completed | 61 | Completed | 82 | Completed |
-| 20 | Completed | 41 | Completed | 62 | Completed | | |
+| 20 | Completed | 41 | Completed | 62 | Completed | 83 | Completed |
 | 21 | Completed | 42 | Completed | 63 | Completed | | |
 
 </details>
