@@ -1,6 +1,6 @@
 <div align="center">
 
-# Day XX: Longest Common Prefix
+# Day 84: Longest Common Prefix
 
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Problem](https://img.shields.io/badge/Problem-14-blue?style=for-the-badge)
