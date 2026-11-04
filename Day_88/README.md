@@ -1,6 +1,6 @@
 <div align="center">
 
-# Day XX: Base 7
+# Day 88: Base 7
 
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Problem](https://img.shields.io/badge/Problem-504-blue?style=for-the-badge)
