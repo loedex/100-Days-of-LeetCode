@@ -1,6 +1,6 @@
 <div align="center">
 
-# Day XX: Perfect Number
+# Day 89: Perfect Number
 
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Problem](https://img.shields.io/badge/Problem-507-blue?style=for-the-badge)
