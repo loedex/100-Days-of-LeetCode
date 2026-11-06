@@ -1,6 +1,6 @@
 <div align="center">
 
-# Day XX: Maximum Product of Three Numbers
+# Day 90: Maximum Product of Three Numbers
 
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Problem](https://img.shields.io/badge/Problem-628-blue?style=for-the-badge)
