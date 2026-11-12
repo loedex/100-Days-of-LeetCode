@@ -1,6 +1,6 @@
 <div align="center">
 
-# Day XX: Pascal's Triangle
+# Day 94: Pascal's Triangle
 
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Problem](https://img.shields.io/badge/Problem-118-blue?style=for-the-badge)
