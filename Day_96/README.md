@@ -1,6 +1,6 @@
 <div align="center">
 
-# Day XX: Summary Ranges
+# Day 96: Summary Ranges
 
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Problem](https://img.shields.io/badge/Problem-228-blue?style=for-the-badge)
