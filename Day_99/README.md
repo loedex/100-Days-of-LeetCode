@@ -1,6 +1,6 @@
 <div align="center">
 
-# Day XX: Maximum Subarray With Equal Products
+# Day 99: Maximum Subarray With Equal Products
 
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Problem](https://img.shields.io/badge/Problem-3411-blue?style=for-the-badge)
